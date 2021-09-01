@@ -137,3 +137,9 @@ input[type='text'] {
     object-fit: contain;
   }
 }
+
+.quote{
+  display: block;
+  text-align: center;
+  margin: 5rem 0;
+}
